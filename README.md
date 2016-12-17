@@ -13,3 +13,8 @@ uwsgi+nginx 部署django配置demo
 1. `jmp2p_nginx.conf`
 2. `jmp2p_uwsgi.ini`
 3. `uwsgi_params`
+
+运行: 
+
+1. 启动nginx
+2. uwsgi启动
